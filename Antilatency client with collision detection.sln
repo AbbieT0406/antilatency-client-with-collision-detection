@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antilatency client with collision detection", "Antilatency client with collision detection\Antilatency client with collision detection.csproj", "{914FE251-FAF9-4C71-AA8D-225BC6C2F588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914FE251-FAF9-4C71-AA8D-225BC6C2F588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914FE251-FAF9-4C71-AA8D-225BC6C2F588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914FE251-FAF9-4C71-AA8D-225BC6C2F588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914FE251-FAF9-4C71-AA8D-225BC6C2F588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBDAED1-C0D8-4C22-B58C-E1E2E9C61B26}
+	EndGlobalSection
+EndGlobal
